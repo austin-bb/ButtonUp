@@ -1,0 +1,33 @@
+.search {
+    background-color: ghostwhite;
+    border: 2px solid mediumaquamarine;
+    color: mediumaquamarine;
+    font-size: 16px;
+    padding: 6px 50px;
+    margin: 6px 1px;
+    border-radius: 50px;
+}
+
+.plus {
+    background-color: mediumaquamarine;
+    border: none;
+    color: white;
+    font-size: 25px;
+    padding: 7px 15px;
+    margin: 6px 1px;
+    border-radius: 50%;
+    
+}
+.create {
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    color: ghostwhite;
+    font-size: 16px;
+    padding: 10px 35px;
+    margin: 6px 1px;
+    box-shadow: 3px 4px black;
+}
+
+
+
+
